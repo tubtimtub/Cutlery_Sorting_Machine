@@ -5,6 +5,9 @@
 
 This repository focuses on the technical implementation of the object detection and sorting mechanism, led by me as the **Project Leader and Technical Lead**.
 
+*This project was completed in 2021 as part of a group initiative to design and prototype a cutlery sorting machine using object detection technology.*
+
+
 ---
 
 ![System in Action](images/image_detection_fork.png)
