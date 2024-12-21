@@ -85,11 +85,16 @@ The prototype achieved a detection confidence of **90%+** for forks and spoons u
 class_name=fork, scores=0.928337574005127
 Turning servo left
 ```
+- **Servo Logs Results**:
+  ![Servo Results](images/image_result.png)
+
 
 ## Prototype Demo
+- **Conveyor Prototype**:
+	- [Watch Prototype Demo Video 1](https://drive.google.com/file/d/1Vo3YQD0dRO9xTNTofMnKZl1YFMLgPxRs/view?usp=sharing)
+- **Detection Screen**:
+	- [Watch Prototype Demo Video 2](https://drive.google.com/file/d/1-V7F8J5yHGznKK2X2OMllYJy1ga2JYDt/view?usp=sharing)
 
-![Prototype Conveyor](videos/demo1.mp4)
-![Prototype Conveyor](videos/demo2.mp4)
 
 ---
 
